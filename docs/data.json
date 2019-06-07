@@ -1,0 +1,22 @@
+[
+    {
+        "title": "very long notes are truncated",
+        "status": "open",
+        "labels": ["none", "support"],
+        "assignees": ["No one assigned"],
+        "dueDate": "none",
+        "targetRelease": "none",
+        "source": "github",
+        "link": "https://github.com/mudcube/MIDI.js/issues/246"
+    },
+    {
+        "title": "Changes in Red Hat registr",
+        "status": "CODING IN PROGRESS",
+        "labels": "none",
+        "assignees": ["Miguel Soriano"],
+        "dueDate": "none",
+        "targetRelease": "2.6 ER1",
+        "source": "jiro",
+        "link": "https://issues.jboss.org/projects/THREESCALE/issues/THREESCALE-2292?filter=allopenissues"
+    }
+]
